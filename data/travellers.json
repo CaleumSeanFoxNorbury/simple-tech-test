@@ -1,8 +1,0 @@
-[
-    { "id": 1, "name": "Alice", "age": 34, "country": "UK", "tripType": "Business" },
-    { "id": 2, "name": "Bob", "age": 28, "country": "USA", "tripType": "Holiday" },
-    { "id": 3, "name": "Charlie", "age": 42, "country": "UK", "tripType": "Holiday" },
-    { "id": 4, "name": "Dana", "age": 23, "country": "Germany", "tripType": "Business" },
-    { "id": 5, "name": "Ella", "age": 30, "country": "USA", "tripType": "Holiday" },
-    { "id": 6, "name": "Frank", "age": 55, "country": "UK", "tripType": "Business" }
-]  
